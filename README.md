@@ -1,20 +1,20 @@
 # Projeto de Monitoramento do Nível do Mar
 ## **<li>Matheus Henriques do Amaral - RM 556957</li>**
 
-
- <img src="preview.png">
-
 Este projeto é uma simulação de monitoramento do nível do mar. Um potenciômetro é usado para simular as variações no nível do mar, cujos valores são exibidos em um display OLED. Quando o nível do mar excede um determinado limite, um alerta sonoro é acionado através de um buzzer. O código foi desenvolvido e simulado na plataforma Wokwi.
 
 ## Sumário
 
+- [Prévia](#previa)
 - [Hardware](#hardware)
 - [Bibliotecas](#bibliotecas)
 - [Software](#software)
 - [Links importantes](#links-importantes)
 - [Licença](#licença)
 
-## Componentes e Dependências
+### Prévia do projeto 
+
+ <img src="preview.png">
 
 ### Hardware
 
