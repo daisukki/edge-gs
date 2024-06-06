@@ -5,7 +5,7 @@ Este projeto é uma simulação de monitoramento do nível do mar. Um potenciôm
 
 ## Sumário
 
-- [Prévia](#previa)
+- [Prévia](#prévia)
 - [Hardware](#hardware)
 - [Bibliotecas](#bibliotecas)
 - [Software](#software)
@@ -26,18 +26,18 @@ Este projeto é uma simulação de monitoramento do nível do mar. Um potenciôm
 
 ### Bibliotecas
 
-- [Adafruit GFX Library](https://github.com/adafruit/Adafruit-GFX-Library)
-- [Adafruit SSD1306 Library](https://github.com/adafruit/Adafruit_SSD1306)
+- Adafruit GFX Library
+- Adafruit SSD1306 Library
 
 ### Software
 
-- [Arduino IDE](https://www.arduino.cc/en/software)
-- [Wokwi](https://wokwi.com/) para simulação
+- Arduino IDE
+- Wokwi para simulação 
 
 ### Links importantes
 
-- [Acesse o projeto no **Wokwi**](https://wokwi.com/projects/399926163863267329)
-- [Vídeo explicativo no **YouTube**](https://youtu.be/K5-kY4fGBLc)
+- [Projeto no Wokwi](https://wokwi.com/projects/399926163863267329)
+- [Vídeo explicativo](https://youtu.be/K5-kY4fGBLc) no YouTube.
 
 ### Licença
 
